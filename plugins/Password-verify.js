@@ -2,6 +2,16 @@
  * Created by chen on 2016/7/21.
  */
 /**
+ *var PasswordV = require('./Password-verify');
+  var pv = new PasswordV();
+
+  var passid = document.getElementById('passwordStrength'),
+      showid = document.getElementById('showStrength');
+  window.onload = function () {
+    passid.onkeyup = function () {
+         pv.count(passid,showid);
+     }
+ }
  * 验证密码强度
  * @constructor
  */
