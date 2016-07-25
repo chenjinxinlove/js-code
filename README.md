@@ -3,6 +3,7 @@
 2、enter-submit 回车提交
 3、Cursor-pos 光标在结尾
 4、City-three 城市三级联动
+5、Ajax ajax提交
 
 #code-snippet是代码片段
 1.code-snippet  20个正则代码
