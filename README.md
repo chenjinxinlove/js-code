@@ -6,6 +6,8 @@
 5、Ajax ajax提交
 6.UpPreviewImg上传图片预览
 7.Hide_menu 网页版的右键菜单
+8.Printer 打字机效果
+9.Form-verify 表单验证
 
 #code-snippet是代码片段
 1.code-snippet  20个正则代码
