@@ -1,4 +1,5 @@
 # js-code 是一些简单的插件
+,,,
 1、Password-verify   表单密码验证  
 2、enter-submit 回车提交
 3、Cursor-pos 光标在结尾
@@ -9,5 +10,7 @@
 8.Printer 打字机效果
 9.Form-verify 表单验证
 10.darw可以拖动
+11.pop遮罩层和模拟弹出层
+,,,
 #code-snippet是代码片段
 1.code-snippet  20个正则代码
