@@ -9,16 +9,16 @@
 
     }
     //bind()
-    if(!function(){}.bind()){
-        Function.prototype.bind = function (context) {
-            var self = this,
-                    args = [].slice.call(arguments);
-            return function () {
-                return self.apply(context, args.slice(1))
-            }
-
+  if (!function() {}.bind) {
+    Function.prototype.bind = function(context) {
+        var self = this
+            , args = Array.prototype.slice.call(arguments);
+            
+        return function() {
+            return self.apply(context, args.slice(1));    
         }
-    }
+    };
+}
     //map()
     if (typeof Array.prototype.map != "function") {
         Array.prototype.map = function (fn, context) {
