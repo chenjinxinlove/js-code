@@ -24,6 +24,7 @@
 
 1.code-snippet  20个正则代码
 2.es5 es5的ie678支持
+3.window.js window属性的一些代码片段
 
 ```
 
