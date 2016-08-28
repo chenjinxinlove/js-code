@@ -15,6 +15,7 @@
 11.lazy 懒加载图片
 12.pop 遮罩和模拟alert弹出
 13.LoadImage图片预加载
+14.range 划块
 
 ```
 
