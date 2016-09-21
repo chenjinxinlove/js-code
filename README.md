@@ -6,22 +6,22 @@
 0、Password-verify   表单密码验证  
 1、enter-submit 回车提交
 2、Cursor-pos 光标在结尾
-3、City-three 城市三级联动
+3、City-three 城市三级联动 [在线预览](http://1.fullpagedemo.applinzi.com/City-three/)
 4、Ajax ajax提交
-5.UpPreviewImg上传图片预览
-6.Hide_menu 网页版的右键菜单
+5.UpPreviewImg上传图片预览[在线预览](http://1.fullpagedemo.applinzi.com/UpPreviewImg/)
+6.Hide_menu 网页版的右键菜单[在线预览](http://1.fullpagedemo.applinzi.com/HideMenu/)
 7.Printer 打字机效果
 8.Form-verify 表单验证
-9.darw可以拖动
-10.lazy 懒加载图片
+9.darw可以拖动[在线预览](http://1.fullpagedemo.applinzi.com/draw/)
+10.lazy 懒加载图片[在线预览](http://1.fullpagedemo.applinzi.com/lazy/)
 11.pop 遮罩和模拟alert弹出
 12.LoadImage图片预加载
-13.range 划块
+13.range 划块[在线预览](http://1.fullpagedemo.applinzi.com/range/)
 14.Countdown倒计时插件
 
 ----------
-15、inputFormat.js 格式化输入框 
-16、搜索建议
+15、inputFormat.js 格式化输入框 [在线预览](http://1.fullpagedemo.applinzi.com/inputFormat/)
+16、AutoComjs搜索建议[在线预览](http://1.fullpagedemo.applinzi.com/Auto/)
 17、放大镜
 18、模拟滚动
 19、时间轴
