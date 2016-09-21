@@ -18,8 +18,6 @@
 - 12.LoadImage图片预加载
 - 13.range 划块[在线预览](http://1.fullpagedemo.applinzi.com/range/)
 - 14.Countdown倒计时插件
-- 
-- 
 - 15、inputFormat.js 格式化输入框 [在线预览](http://1.fullpagedemo.applinzi.com/inputFormat/)
 - 16、AutoComjs搜索建议[在线预览](http://1.fullpagedemo.applinzi.com/Auto/)
 - 17、放大镜
