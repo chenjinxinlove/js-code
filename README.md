@@ -20,8 +20,8 @@
 - 14、Countdown倒计时插件
 - 15、inputFormat 格式化输入框 [在线预览](http://1.fullpagedemo.applinzi.com/inputFormat/)
 - 16、AutoComjs搜索建议[在线预览](http://1.fullpagedemo.applinzi.com/Auto/)
-- 17、放大镜
-- 18、模拟滚动
+- 17、放大镜 Mglass [在线预览](http://1.fullpagedemo.applinzi.com/Mglass/)
+- 18、模拟滚动 MiRange [在线预览横](http://1.fullpagedemo.applinzi.com/MiRange/Simulatedrolling.html)[在线预览竖](http://1.fullpagedemo.applinzi.com/MiRange/simulatop.html)
 - 19、时间轴
 - 20、多图上传
 - 21、帧动画
