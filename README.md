@@ -25,7 +25,7 @@
 - 19、时间轴
 - 20、多图上传
 - 21、帧动画
-- 22、手风琴
+- 22、手风琴 Accordion [在线预览](http://1.fullpagedemo.applinzi.com/Accordion/)
 - 23、tab Tab [在线预览](http://1.fullpagedemo.applinzi.com/Tab/)
 - 24、幻灯片（1）
 - 25、幻灯片（2）
