@@ -23,7 +23,7 @@
 - 17、放大镜 Mglass [在线预览](http://1.fullpagedemo.applinzi.com/Mglass/)
 - 18、模拟滚动 MiRange [在线预览横](http://1.fullpagedemo.applinzi.com/MiRange/Simulatedrolling.html)[在线预览竖](http://1.fullpagedemo.applinzi.com/MiRange/simulatop.html)
 - 19、时间轴
-- 20、多图上传
+- 20、多图上传 UpLoadImg
 - 21、帧动画
 - 22、手风琴 Accordion [在线预览](http://1.fullpagedemo.applinzi.com/Accordion/)
 - 23、tab Tab [在线预览](http://1.fullpagedemo.applinzi.com/Tab/)
