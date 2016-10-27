@@ -22,28 +22,18 @@
 - 16、AutoComjs搜索建议[在线预览](http://1.fullpagedemo.applinzi.com/Auto/)
 - 17、放大镜 Mglass [在线预览](http://1.fullpagedemo.applinzi.com/Mglass/)
 - 18、模拟滚动 MiRange [在线预览横](http://1.fullpagedemo.applinzi.com/MiRange/Simulatedrolling.html)[在线预览竖](http://1.fullpagedemo.applinzi.com/MiRange/simulatop.html)
-- 19、时间轴
-- 20、多图上传 UpLoadImg
-- 21、帧动画
-- 22、手风琴 Accordion [在线预览](http://1.fullpagedemo.applinzi.com/Accordion/)
-- 23、tab Tab [在线预览](http://1.fullpagedemo.applinzi.com/Tab/)
-- 24、幻灯片（1）
-- 25、幻灯片（2）
-- 26、图片灯箱 弹出滑动
-- 27、散列化廊
-- 28、旋转木马
-- 29、日历
-- 30、浮动菜单
-- 31、侧边栏
-- 32、回到顶部
-- 33、下拉框
-- 34、londing进度条
-- 35、radio、check、美化与开关
-- 36、瀑布流
-- 37、购物车效果
-- 38、碰撞检测
-- 39、星级评价
-- 40、分页
+- 19、多图上传 UpLoadImg
+- 20、帧动画
+- 21、手风琴 Accordion [在线预览](http://1.fullpagedemo.applinzi.com/Accordion/)
+- 22、tab Tab [在线预览](http://1.fullpagedemo.applinzi.com/Tab/)
+- 23、幻灯片（1）
+- 24、幻灯片（2）
+- 25、幻灯片（3）
+- 26、日历
+- 27、londing进度条
+- 28、瀑布流
+- 29、购物车效果
+- 30、分页
 
 
 ### code-snippet是代码片段
