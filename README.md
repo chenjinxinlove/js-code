@@ -32,7 +32,7 @@
 - 26、日历
 - 27、londing进度条
 - 28、瀑布流
-- 29、购物车效果
+- 29、购物车效果 Parabola (http://1.fullpagedemo.applinzi.com/Parabola/)
 - 30、分页
 
 
