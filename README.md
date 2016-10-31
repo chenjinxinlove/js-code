@@ -30,7 +30,7 @@
 - 24、幻灯片（2）
 - 25、幻灯片（3）
 - 26、日历
-- 27、londing进度条
+- 27、londing进度条  Loader [在线预览](http://1.fullpagedemo.applinzi.com/Loader/)
 - 28、瀑布流 WaterFall [在线预览](http://1.fullpagedemo.applinzi.com/WaterFall/)
 - 29、购物车效果 Parabola [在线预览](http://1.fullpagedemo.applinzi.com/Parabola/)
 - 30、分页
