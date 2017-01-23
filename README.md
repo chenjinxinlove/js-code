@@ -27,13 +27,11 @@
 - 21、手风琴 Accordion [在线预览](http://1.fullpagedemo.applinzi.com/Accordion/)
 - 22、tab Tab [在线预览](http://1.fullpagedemo.applinzi.com/Tab/)
 - 23、幻灯片（1）
-- 24、幻灯片（2）
-- 25、幻灯片（3）
-- 26、日历
-- 27、londing进度条  Loader [在线预览](http://1.fullpagedemo.applinzi.com/Loader/)
-- 28、瀑布流 WaterFall [在线预览](http://1.fullpagedemo.applinzi.com/WaterFall/)
-- 29、购物车效果 Parabola [在线预览](http://1.fullpagedemo.applinzi.com/Parabola/)
-- 30、分页
+- 24、日历
+- 25、londing进度条  Loader [在线预览](http://1.fullpagedemo.applinzi.com/Loader/)
+- 26、瀑布流 WaterFall [在线预览](http://1.fullpagedemo.applinzi.com/WaterFall/)
+- 27、购物车效果 Parabola [在线预览](http://1.fullpagedemo.applinzi.com/Parabola/)
+- 28、分页
 
 
 ### code-snippet是代码片段
