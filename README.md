@@ -31,7 +31,7 @@
 - 25、londing进度条  Loader [在线预览](http://1.fullpagedemo.applinzi.com/Loader/)
 - 26、瀑布流 WaterFall [在线预览](http://1.fullpagedemo.applinzi.com/WaterFall/)
 - 27、购物车效果 Parabola [在线预览](http://1.fullpagedemo.applinzi.com/Parabola/)
-- 28、分页
+- 28、推拉图片 PushAndPull [在线预览](http://1.fullpagedemo.applinzi.com/PushAndPull/)
 
 
 ### code-snippet是代码片段
