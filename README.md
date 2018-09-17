@@ -6,32 +6,32 @@
 - 0、Password-verify   表单密码验证  
 - 1、enter-submit 回车提交
 - 2、Cursor-pos 光标在结尾
-- 3、City-three 城市三级联动 [在线预览](http://1.fullpagedemo.applinzi.com/City-three/)
+- 3、City-three 城市三级联动 [在线预览](http://www.chenjinxinlove.com/1/City-three/)
 - 4、Ajax ajax提交
-- 5、UpPreviewImg上传图片预览[在线预览](http://1.fullpagedemo.applinzi.com/UpPreviewImg/)
-- 6、Hide_menu 网页版的右键菜单[在线预览](http://1.fullpagedemo.applinzi.com/HideMenu/)
+- 5、UpPreviewImg上传图片预览[在线预览](http://www.chenjinxinlove.com/1/UpPreviewImg/)
+- 6、Hide_menu 网页版的右键菜单[在线预览](http://www.chenjinxinlove.com/1/HideMenu/)
 - 7、Printer 打字机效果
 - 8、Form-verify 表单验证
-- 9、darw可以拖动[在线预览](http://1.fullpagedemo.applinzi.com/draw/)
-- 10、lazy 懒加载图片[在线预览](http://1.fullpagedemo.applinzi.com/lazy/)
+- 9、darw可以拖动[在线预览](http://www.chenjinxinlove.com/1/draw/)
+- 10、lazy 懒加载图片[在线预览](http://www.chenjinxinlove.com/1/lazy/)
 - 11、pop 遮罩和模拟alert弹出
 - 12、LoadImage图片预加载
-- 13、range 划块[在线预览](http://1.fullpagedemo.applinzi.com/range/)
+- 13、range 划块[在线预览](http://www.chenjinxinlove.com/1/range/)
 - 14、Countdown倒计时插件
-- 15、inputFormat 格式化输入框 [在线预览](http://1.fullpagedemo.applinzi.com/inputFormat/)
-- 16、AutoComjs搜索建议[在线预览](http://1.fullpagedemo.applinzi.com/Auto/)
-- 17、放大镜 Mglass [在线预览](http://1.fullpagedemo.applinzi.com/Mglass/)
-- 18、模拟滚动 MiRange [在线预览横](http://1.fullpagedemo.applinzi.com/MiRange/Simulatedrolling.html)[在线预览竖](http://1.fullpagedemo.applinzi.com/MiRange/simulatop.html)
+- 15、inputFormat 格式化输入框 [在线预览](http://www.chenjinxinlove.com/1/inputFormat/)
+- 16、AutoComjs搜索建议[在线预览](http://www.chenjinxinlove.com/1/Auto/)
+- 17、放大镜 Mglass [在线预览](http://www.chenjinxinlove.com/1/Mglass/)
+- 18、模拟滚动 MiRange [在线预览横](http://www.chenjinxinlove.com/1/MiRange/Simulatedrolling.html)[在线预览竖](http://www.chenjinxinlove.com/1/MiRange/simulatop.html)
 - 19、多图上传 UpLoadImg
 - 20、帧动画
-- 21、手风琴 Accordion [在线预览](http://1.fullpagedemo.applinzi.com/Accordion/)
-- 22、tab Tab [在线预览](http://1.fullpagedemo.applinzi.com/Tab/)
+- 21、手风琴 Accordion [在线预览](http://www.chenjinxinlove.com/1/Accordion/)
+- 22、tab Tab [在线预览](http://www.chenjinxinlove.com/1/Tab/)
 - 23、幻灯片（1）
 - 24、日历
-- 25、londing进度条  Loader [在线预览](http://1.fullpagedemo.applinzi.com/Loader/)
-- 26、瀑布流 WaterFall [在线预览](http://1.fullpagedemo.applinzi.com/WaterFall/)
-- 27、购物车效果 Parabola [在线预览](http://1.fullpagedemo.applinzi.com/Parabola/)
-- 28、推拉图片 PushAndPull [在线预览](http://1.fullpagedemo.applinzi.com/PushAndPull/)
+- 25、londing进度条  Loader [在线预览](http://www.chenjinxinlove.com/1/Loader/)
+- 26、瀑布流 WaterFall [在线预览](http://www.chenjinxinlove.com/1/WaterFall/)
+- 27、购物车效果 Parabola [在线预览](http://www.chenjinxinlove.com/1/Parabola/)
+- 28、推拉图片 PushAndPull [在线预览](http://www.chenjinxinlove.com/1/PushAndPull/)
 
 
 ### code-snippet是代码片段
